@@ -1,2 +1,2 @@
 # bookbot
-bookbot hobby project
+bookbot hobby project -Boot.dev certification course
